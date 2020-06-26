@@ -1,8 +1,8 @@
-import java.util.*
+import java.util.*;
 
 //Simple calculator
 
-public class calc
+public class Calc
 {
     public static void main(String[] args)
     {
